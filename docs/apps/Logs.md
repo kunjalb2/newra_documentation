@@ -1,5 +1,5 @@
 ---
-sidebar_position: 6
+sidebar_position: 7
 ---
 
 The Log Listing Page provides a centralized interface for viewing and managing all logs within a specific App. This page displays all logs without categorization. The following technical flow outlines how this is accomplished:
