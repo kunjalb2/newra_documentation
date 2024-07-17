@@ -1,5 +1,5 @@
 ---
-sidebar_position: 4
+sidebar_position: 5
 ---
 
 The Log Listing Page provides a centralized interface for viewing and managing all logs within a specific Knowledge Base. The following technical flow outlines how this is accomplished:
